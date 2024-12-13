@@ -3,8 +3,6 @@
 
   - [Datasets](#datasets)
 
-  - [Relevant Links](#relevant-links)
-
   - [Contributing](#contributing)
 
   - [Support](#support)
