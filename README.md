@@ -3,10 +3,6 @@
 
   - [Datasets](#datasets)
 
-  - [Contributing](#contributing)
-
-  - [Support](#support)
-
 
 ## Introduction
 
